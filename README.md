@@ -4,7 +4,7 @@
 ### Part 1:
 1. Thread in C++
 2. 5 Different ways to create threads in C++11
-3. Join and detach
+3. Join and detach with joinable()
 4. Mutex and mutex lock
 5. std::try_lock
 6. Timed mutex
