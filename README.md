@@ -1,6 +1,6 @@
 # C++ Materials
 
-## Threading
+## Multi-Threading
 ### Part 1:
 1. Thread in C++
 2. 5 different ways to create threads
