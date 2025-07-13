@@ -1,4 +1,4 @@
-# C-Materials
+# C++ Materials
 
 ## Threading
 ### Part 1:
