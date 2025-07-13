@@ -30,3 +30,4 @@
  - 27. Oversubscription in multithreading
  - 28. Atomic variables
 #### Interview Questions:
+ - How can two threads communicate with each other?
