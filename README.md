@@ -20,16 +20,12 @@
 16. Producer and Consumer
 17. Sleep vs wait
 18. Is a static variable thread safe or not?
-
----
-
-### Part 2:
-1. Binary semaphore
-2. Mutex vs semaphore
-3. Producer-Consumer Problem using a semaphore
-4. Race condition
-5. Thread pool
-6. Object pool in multithreading
-7. Scoped lock
-8. Oversubscription in multithreading
-9. Atomic variables
+19. Binary semaphore
+20. Mutex vs semaphore
+21. Producer-Consumer Problem using a semaphore
+22. Race condition
+23. Thread pool
+24. Object pool in multithreading
+25. Scoped lock
+26. Oversubscription in multithreading
+27. Atomic variables
