@@ -29,5 +29,5 @@
  - 26. Scoped lock
  - 27. Oversubscription in multithreading
  - 28. Atomic variables
-#### Interview Questions:
+#### Interview Questions on threads:
  - How can two threads communicate with each other?
