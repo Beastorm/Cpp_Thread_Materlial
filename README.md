@@ -1,7 +1,7 @@
 # C++ Materials
 
 ## Multi-Threading
-### Topics 1:
+### Topics:
 1. Thread in C++
 2. 5 Different ways to create threads in C++11
 3. Join and detach with joinable()
