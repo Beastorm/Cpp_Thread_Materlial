@@ -3,7 +3,7 @@
 ## Threading
 ### Part 1:
 1. Thread in C++
-2. 5 different types of create thread
+2. 5 different ways to create threads
 3. Join and detach
 4. Mutex, mutex lock
 5. std::try_lock
