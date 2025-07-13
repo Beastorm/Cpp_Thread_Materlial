@@ -1,7 +1,7 @@
 # C++ Materials
 
 ## Multi-Threading
-### Part 1:
+### Topics 1:
 1. Thread in C++
 2. 5 Different ways to create threads in C++11
 3. Join and detach with joinable()
@@ -29,3 +29,5 @@
 25. Scoped lock
 26. Oversubscription in multithreading
 27. Atomic variables
+---
+### Interview Questions:
