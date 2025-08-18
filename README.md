@@ -29,7 +29,7 @@
  - 28. Atomic variables
  - How can two threads communicate with each other?
 ---
-##Thread Topics::
+## Thread Topics::
 ### Thread Management Guide:
  - Setting up the environment for the course
  - Introduction to parallel computing
