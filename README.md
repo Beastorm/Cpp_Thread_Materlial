@@ -1,4 +1,4 @@
-## Interview Questions on threads::
+## Interview Questions on threads:
  - 1. Thread in C++
  - 2. 5 Different ways to create threads in C++11
  - 3. Life cycle of a thread
@@ -27,9 +27,9 @@
  - 26. Scoped lock
  - 27. Oversubscription in multithreading
  - 28. Atomic variables
- - How can two threads communicate with each other?
----
-## Thread Topics::
+ - 29. How can two threads communicate with each other?
+
+## Thread Topics:
 ### Thread Management Guide:
  - Setting up the environment for the course
  - Introduction to parallel computing
