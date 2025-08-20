@@ -1,33 +1,33 @@
 ## Interview Questions on threads:
- - 1. Thread in C++
- - 2. 5 Different ways to create threads in C++11
- - 3. Life cycle of a thread
- - 4. Join and detach with joinable()
- - 5. Mutex and mutex lock
- - 6. std::try_lock
- - 7. Timed mutex
- - 8. Recursive mutex
- - 9. Shared mutex
- - 10. Lock guard
- - 11. Unique lock and shared lock
- - 12. Condition variable and its usage
- - 13. Deadlock
- - 14. Thread or Process synchronization
- - 15. std::lock
- - 16. std::promise and std::future
- - 17. std::async
- - 18. Producer and Consumer
- - 19. Sleep vs wait
- - 20. Is a static variable thread safe or not?
- - 21. Binary semaphore
- - 22. Mutex vs semaphore
- - 23. Producer-Consumer Problem using a semaphore
- - 24. Race condition
- - 25. Thread pool
- - 26. Object pool in multithreading
- - 27. Scoped lock
- - 28. Oversubscription in multithreading
- - 29. Atomic variables and related operations to this
+ - Thread in C++
+ - 5 Different ways to create threads in C++11
+ - Life cycle of a thread
+ - Join and detach with joinable()
+ - Mutex and mutex lock
+ - std::try_lock
+ - Timed mutex
+ - Recursive mutex
+ - Shared mutex
+ - std::lock
+ - Lock guard
+ - Unique lock and shared lock
+ - Scoped lock
+ - Condition variable and its usage
+ - Deadlock
+ - Thread or Process synchronization
+ - std::promise and std::future
+ - std::async
+ - Producer and Consumer
+ - Sleep vs wait
+ - Is a static variable thread safe or not?
+ - Binary semaphore
+ - Mutex vs semaphore
+ - Producer-Consumer Problem using a semaphore
+ - Race condition
+ - Thread pool
+ - Object pool in multithreading
+ - Oversubscription in multithreading
+ - Atomic variables and related operations to this
 
 ## Thread Topics:
 ### Thread Management Guide:
