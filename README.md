@@ -27,7 +27,7 @@
  - 26. Object pool in multithreading
  - 27. Scoped lock
  - 28. Oversubscription in multithreading
- - 29. Atomic variables and operations related to this
+ - 29. Atomic variables and related operations to this
 
 ## Thread Topics:
 ### Thread Management Guide:
