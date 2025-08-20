@@ -7,7 +7,7 @@
  - 6. std::try_lock
  - 7. Timed mutex
  - 8. Recursive mutex
-   9. Shared mutex
+ - 9. Shared mutex
  - 10. Lock guard
  - 11. Unique lock and shared lock
  - 12. Condition variable and its usage
