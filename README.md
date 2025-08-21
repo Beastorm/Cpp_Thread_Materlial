@@ -31,10 +31,6 @@
 
 ## Thread Topics from basic to advanced in C++:
 ### Thread Management Guide:
- - Setting up the environment for the course
- - Introduction to parallel computing
- - Quiz: Parallel programming in general
- - Uses of parallel programming.
  - How to launch a thread
  - Programming exercise 1: Launching the threads
  - Joinability of threads
