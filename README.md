@@ -1,4 +1,4 @@
-## Interview Questions on threads:
+## Interview Questions on threads in C++:
  - Thread in C++
  - 5 Different ways to create threads in C++11
  - Life cycle of a thread
@@ -29,7 +29,7 @@
  - Oversubscription in multithreading
  - Atomic variables and related operations to this
 
-## Thread Topics:
+## Thread Topics from basic to advanced in C++:
 ### Thread Management Guide:
  - Setting up the environment for the course
  - Introduction to parallel computing
