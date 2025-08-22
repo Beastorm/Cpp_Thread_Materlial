@@ -46,7 +46,6 @@
  - Parallel accumulate algorithm implementation
  - Thread local storage
  - Debugging an application in Visual Studio
- - Thread management
 
 ### Thread Safe Access to shared data and locking mechanisms:
  - Introduction to locking mechanisms
