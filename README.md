@@ -36,7 +36,7 @@
  - Joinability of threads
  - Join and detach functions
  - How to handle join in exception scenarios
- - Programming exercise 2: Trivial sale a ship model
+ - Programming exercise 2: Selling a ship model
  - How to pass parameters to a thread
  - Problematic situations may arise when passing parameters to a thread
  - Transferring ownership of a thread
@@ -49,30 +49,16 @@
 
 ### Thread Safe Access to shared data and locking mechanisms:
  - Introduction to locking mechanisms
- - Concept of invarient
+ - Concept of invariant
  - Critical Sections
  - Mutex Introduction
- - Mutex Class
  - Things to remember when using mutexes
  - Thread-safe stack implementation: introduction to the stack
  - Thread-safe stack implementation: implementation
  - Thread-safe stack implementation: race condition is inherited from the interface
- - Internally Synchronized Class
- - Lock Guard
- - Unique Lock
- - Timeouts and Mutexes
- - Multiple Reader, Single Writer
- - Shared Mutexes
- - Shared Data Initialization
- - Thread-local Data
- - Lazy initialization
- - Double-Checked Locking
  - Deadlock
- - Deadlock Practical
- - Deadlock Avoidance
- - Deadlock Avoidance Practical
  - Livelock
- - Livelock Practical
+ - Unique Lock
 
 ### Communication between threads using condition variables and futures:
  - Introduction to condition variables
